@@ -32,5 +32,11 @@
     "karma-firefox-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.8",
     "sinon": "^1.17.3"
+  },
+  "homepage": "https://github.com/mozilla/bedrock",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
   }
 }
